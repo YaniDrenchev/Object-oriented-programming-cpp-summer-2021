@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/yanidrenchev/Desktop/UNI/OOP/Prakt1/main.cpp
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt1/main.cpp
+iostream
+-
+rectangle.cpp
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt1/rectangle.cpp
+
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt1/rectangle.cpp
 iostream
 -
 
