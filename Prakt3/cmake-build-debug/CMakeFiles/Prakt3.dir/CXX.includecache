@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/Waepon.h
+
+/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/Warrior.h
+Waepon.h
+/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/Waepon.h
+
+/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/main.cpp
+iostream
+-
+Warrior.h
+/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/Warrior.h
+Waepon.h
+/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/Waepon.h
+
