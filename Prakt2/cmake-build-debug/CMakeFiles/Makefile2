@@ -102,6 +102,61 @@ clean: CMakeFiles/Prakt2.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory Task2
+
+# Convenience name for "all" pass in the directory.
+Task2/all: Task2/CMakeFiles/Task2.dir/all
+
+.PHONY : Task2/all
+
+# Convenience name for "clean" pass in the directory.
+Task2/clean: Task2/CMakeFiles/Task2.dir/clean
+
+.PHONY : Task2/clean
+
+# Convenience name for "preinstall" pass in the directory.
+Task2/preinstall:
+
+.PHONY : Task2/preinstall
+
+#=============================================================================
+# Target rules for target Task2/CMakeFiles/Task2.dir
+
+# All Build rule for target.
+Task2/CMakeFiles/Task2.dir/all:
+	$(MAKE) -f Task2/CMakeFiles/Task2.dir/build.make Task2/CMakeFiles/Task2.dir/depend
+	$(MAKE) -f Task2/CMakeFiles/Task2.dir/build.make Task2/CMakeFiles/Task2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target Task2"
+.PHONY : Task2/CMakeFiles/Task2.dir/all
+
+# Include target in all.
+all: Task2/CMakeFiles/Task2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+Task2/CMakeFiles/Task2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 Task2/CMakeFiles/Task2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles 0
+.PHONY : Task2/CMakeFiles/Task2.dir/rule
+
+# Convenience name for target.
+Task2: Task2/CMakeFiles/Task2.dir/rule
+
+.PHONY : Task2
+
+# clean rule for target.
+Task2/CMakeFiles/Task2.dir/clean:
+	$(MAKE) -f Task2/CMakeFiles/Task2.dir/build.make Task2/CMakeFiles/Task2.dir/clean
+.PHONY : Task2/CMakeFiles/Task2.dir/clean
+
+# clean rule for target.
+clean: Task2/CMakeFiles/Task2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.

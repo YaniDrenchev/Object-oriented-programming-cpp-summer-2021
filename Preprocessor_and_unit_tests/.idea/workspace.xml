@@ -12,434 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38b360cc-e217-4074-b41e-be24a9614e1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Prakt2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.conan/test_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/WORKSPACE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/misc/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/TestScripts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture1/tests/test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Preprocessor_and_unit_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Preprocessor_and_unit_tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.clang-format" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.clang-format" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.conan/build.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.conan/build.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.conan/test_package/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.conan/test_package/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.conan/test_package/conanfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.conan/test_package/conanfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.conan/test_package/test_package.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.conan/test_package/test_package.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.github/FUNDING.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.github/pull_request_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.github/pull_request_template.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/BUILD.bazel" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/BUILD.bazel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CMake/Catch2Config.cmake.in" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CMake/Catch2Config.cmake.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CMake/FindGcov.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CMake/FindGcov.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CMake/FindLcov.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CMake/FindLcov.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CMake/Findcodecov.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CMake/Findcodecov.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CMake/MiscFunctions.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CMake/MiscFunctions.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CMake/catch2.pc.in" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CMake/catch2.pc.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CMake/llvm-cov-wrapper" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CMake/llvm-cov-wrapper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/WORKSPACE" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/.conan/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/appveyor.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/artwork/catch2-c-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/artwork/catch2-c-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/artwork/catch2-hand-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/artwork/catch2-hand-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/artwork/catch2-logo-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/artwork/catch2-logo-small.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/codecov.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/codecov.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/conanfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/conanfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/contrib/Catch.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/contrib/Catch.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/contrib/CatchAddTests.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/contrib/CatchAddTests.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/contrib/ParseAndAddCatchTests.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/contrib/ParseAndAddCatchTests.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/contrib/gdbinit" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/contrib/gdbinit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/contrib/lldbinit" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/contrib/lldbinit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/assertions.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/assertions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/benchmarks.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/benchmarks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/ci-and-misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/ci-and-misc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/cmake-integration.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/cmake-integration.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/command-line.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/command-line.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/commercial-users.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/commercial-users.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/configuration.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/configuration.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/contributing.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/contributing.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/deprecations.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/deprecations.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/event-listeners.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/event-listeners.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/generators.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/generators.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/limitations.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/limitations.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/list-of-examples.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/list-of-examples.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/logging.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/logging.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/matchers.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/matchers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/opensource-users.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/opensource-users.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/other-macros.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/other-macros.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/own-main.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/own-main.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/release-notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/release-notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/release-process.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/release-process.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/reporters.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/reporters.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/slow-compiles.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/slow-compiles.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/test-cases-and-sections.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/test-cases-and-sections.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/test-fixtures.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/test-fixtures.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/tostring.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/tostring.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/tutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/docs/why-catch.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/docs/why-catch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/000-CatchMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/000-CatchMain.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/010-TestCase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/010-TestCase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/020-TestCase-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/020-TestCase-1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/020-TestCase-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/020-TestCase-2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/030-Asn-Require-Check.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/030-Asn-Require-Check.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/100-Fix-Section.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/100-Fix-Section.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/110-Fix-ClassFixture.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/110-Fix-ClassFixture.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/120-Bdd-ScenarioGivenWhenThen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/120-Bdd-ScenarioGivenWhenThen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/200-Rpt-CatchMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/200-Rpt-CatchMain.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/207-Rpt-TeamCityReporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/207-Rpt-TeamCityReporter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/210-Evt-EventListeners.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/210-Evt-EventListeners.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/231-Cfg-OutputStreams.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/231-Cfg-OutputStreams.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/300-Gen-OwnGenerator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/300-Gen-OwnGenerator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/301-Gen-MapTypeConversion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/301-Gen-MapTypeConversion.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/302-Gen-Table.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/302-Gen-Table.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/310-Gen-VariablesInGenerators.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/310-Gen-VariablesInGenerators.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/311-Gen-CustomCapture.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/311-Gen-CustomCapture.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/examples/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/examples/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/catch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/catch.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/catch_with_main.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/catch_with_main.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/external/clara.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/external/clara.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_benchmark.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_benchmark.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_benchmarking_all.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_benchmarking_all.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_chronometer.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_chronometer.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_clock.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_clock.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_constructor.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_constructor.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_environment.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_environment.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_estimate.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_estimate.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_execution_plan.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_execution_plan.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_optimizer.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_optimizer.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_outlier_classification.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_outlier_classification.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/catch_sample_analysis.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/catch_sample_analysis.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_analyse.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_analyse.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_benchmark_function.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_benchmark_function.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_complete_invoke.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_complete_invoke.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_estimate_clock.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_estimate_clock.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_measure.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_measure.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_repeat.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_repeat.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_run_for_at_least.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_run_for_at_least.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_stats.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_stats.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_stats.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_stats.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/benchmark/detail/catch_timing.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/benchmark/detail/catch_timing.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_approx.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_approx.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_approx.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_approx.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_assertionhandler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_assertionhandler.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_assertionhandler.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_assertionhandler.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_assertioninfo.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_assertioninfo.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_assertionresult.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_assertionresult.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_assertionresult.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_assertionresult.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_capture.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_capture.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_capture_matchers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_capture_matchers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_capture_matchers.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_capture_matchers.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_clara.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_clara.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_commandline.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_commandline.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_commandline.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_commandline.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_common.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_common.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_common.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_common.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_compiler_capabilities.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_compiler_capabilities.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_config.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_config.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_config.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_config.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_config_uncaught_exceptions.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_config_uncaught_exceptions.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_console_colour.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_console_colour.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_console_colour.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_console_colour.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_context.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_context.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_context.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_context.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_debug_console.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_debug_console.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_debug_console.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_debug_console.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_debugger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_debugger.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_debugger.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_debugger.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_decomposer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_decomposer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_decomposer.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_decomposer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_default_main.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_default_main.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_enforce.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_enforce.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_enforce.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_enforce.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_enum_values_registry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_enum_values_registry.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_enum_values_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_enum_values_registry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_errno_guard.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_errno_guard.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_errno_guard.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_errno_guard.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_exception_translator_registry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_exception_translator_registry.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_exception_translator_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_exception_translator_registry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_external_interfaces.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_external_interfaces.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_fatal_condition.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_fatal_condition.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_fatal_condition.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_fatal_condition.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_generators.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_generators.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_generators.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_generators.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_generators_generic.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_generators_generic.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_generators_specific.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_generators_specific.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_impl.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_impl.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_capture.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_capture.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_capture.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_capture.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_config.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_config.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_config.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_config.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_enum_values_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_enum_values_registry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_exception.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_exception.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_exception.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_exception.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_generatortracker.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_generatortracker.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_registry_hub.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_registry_hub.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_registry_hub.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_registry_hub.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_reporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_reporter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_reporter.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_reporter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_runner.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_runner.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_runner.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_runner.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_tag_alias_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_tag_alias_registry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_testcase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_testcase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_interfaces_testcase.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_interfaces_testcase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_leak_detector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_leak_detector.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_leak_detector.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_leak_detector.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_list.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_list.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_list.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_exception.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_exception.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_exception.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_exception.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_floating.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_floating.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_floating.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_floating.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_generic.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_generic.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_generic.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_generic.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_string.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_string.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_string.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_string.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_matchers_vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_matchers_vector.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_message.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_message.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_message.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_message.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_meta.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_meta.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_objc.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_objc.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_objc_arc.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_objc_arc.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_option.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_option.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_output_redirect.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_output_redirect.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_output_redirect.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_output_redirect.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_platform.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_platform.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_polyfills.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_polyfills.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_polyfills.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_polyfills.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_preprocessor.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_preprocessor.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_random_number_generator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_random_number_generator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_random_number_generator.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_random_number_generator.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_reenable_warnings.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_reenable_warnings.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_registry_hub.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_registry_hub.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_reporter_registrars.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_reporter_registrars.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_reporter_registry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_reporter_registry.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_reporter_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_reporter_registry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_result_type.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_result_type.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_result_type.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_result_type.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_run_context.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_run_context.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_run_context.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_run_context.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_section.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_section.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_section.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_section.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_section_info.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_section_info.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_section_info.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_section_info.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_session.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_session.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_session.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_session.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_singletons.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_singletons.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_singletons.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_singletons.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_startup_exception_registry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_startup_exception_registry.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_startup_exception_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_startup_exception_registry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_stream.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_stream.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_stream.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_stream.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_string_manip.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_string_manip.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_string_manip.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_string_manip.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_stringref.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_stringref.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_stringref.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_stringref.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_suppress_warnings.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_suppress_warnings.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_tag_alias.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_tag_alias.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_tag_alias.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_tag_alias.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_tag_alias_autoregistrar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_tag_alias_autoregistrar.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_tag_alias_autoregistrar.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_tag_alias_autoregistrar.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_tag_alias_registry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_tag_alias_registry.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_tag_alias_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_tag_alias_registry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_case_info.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_case_info.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_case_info.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_case_info.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_case_registry_impl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_case_registry_impl.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_case_registry_impl.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_case_registry_impl.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_case_tracker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_case_tracker.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_case_tracker.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_case_tracker.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_registry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_registry.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_registry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_spec.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_spec.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_spec.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_spec.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_spec_parser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_spec_parser.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_test_spec_parser.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_test_spec_parser.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_text.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_text.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_timer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_timer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_timer.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_timer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_to_string.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_to_string.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_tostring.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_tostring.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_tostring.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_tostring.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_totals.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_totals.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_totals.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_totals.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_uncaught_exceptions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_uncaught_exceptions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_uncaught_exceptions.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_uncaught_exceptions.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_user_interfaces.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_user_interfaces.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_version.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_version.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_version.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_version.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_wildcard_pattern.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_wildcard_pattern.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_wildcard_pattern.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_wildcard_pattern.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_windows_h_proxy.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_windows_h_proxy.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_xmlwriter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_xmlwriter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/internal/catch_xmlwriter.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/internal/catch_xmlwriter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_automake.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_automake.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_bases.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_bases.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_bases.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_bases.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_compact.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_compact.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_compact.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_compact.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_console.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_console.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_console.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_console.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_junit.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_junit.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_junit.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_junit.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_listening.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_listening.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_listening.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_listening.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_sonarqube.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_sonarqube.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_tap.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_tap.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_teamcity.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_teamcity.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_xml.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_xml.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/include/reporters/catch_reporter_xml.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/include/reporters/catch_reporter_xml.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/misc/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/misc/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/misc/appveyorBuildConfigurationScript.bat" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/misc/appveyorBuildConfigurationScript.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/misc/appveyorMergeCoverageScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/misc/appveyorMergeCoverageScript.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/misc/appveyorTestRunScript.bat" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/misc/appveyorTestRunScript.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/misc/coverage-helper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/misc/coverage-helper.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/misc/installOpenCppCoverage.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/misc/installOpenCppCoverage.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/ToDo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/ToDo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X01-PrefixedMacros.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X01-PrefixedMacros.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X02-DisabledMacros.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X02-DisabledMacros.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X03-DisabledExceptions-DefaultHandler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X03-DisabledExceptions-DefaultHandler.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X04-DisabledExceptions-CustomHandler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X04-DisabledExceptions-CustomHandler.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X10-FallbackStringifier.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X10-FallbackStringifier.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X11-DisableStringification.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X11-DisableStringification.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X12-CustomDebugBreakMacro.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X12-CustomDebugBreakMacro.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X20-BenchmarkingMacros.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X20-BenchmarkingMacros.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/ExtraTests/X90-WindowsHeaderInclusion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/ExtraTests/X90-WindowsHeaderInclusion.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Baselines/automake.std.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Baselines/automake.std.approved.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Baselines/compact.sw.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Baselines/compact.sw.approved.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Baselines/console.std.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Baselines/console.std.approved.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Baselines/console.sw.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Baselines/console.sw.approved.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Baselines/console.swa4.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Baselines/console.swa4.approved.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Baselines/junit.sw.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Baselines/junit.sw.approved.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Baselines/sonarqube.sw.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Baselines/sonarqube.sw.approved.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Baselines/xml.sw.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Baselines/xml.sw.approved.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/CompileTimePerfTests/10.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/CompileTimePerfTests/10.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/CompileTimePerfTests/100.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/CompileTimePerfTests/100.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/CompileTimePerfTests/All.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/CompileTimePerfTests/All.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/CmdLine.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/CmdLine.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/Details.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/Details.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/GeneratorsImpl.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/GeneratorsImpl.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/InternalBenchmark.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/InternalBenchmark.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/PartTracker.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/PartTracker.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/RandomNumberGeneration.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/RandomNumberGeneration.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/String.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/String.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/StringManip.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/StringManip.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/Tag.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/Tag.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/ToString.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/ToString.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/IntrospectiveTests/Xml.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/IntrospectiveTests/Xml.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Misc/invalid-test-names.input" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Misc/invalid-test-names.input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Misc/plain-old-tests.input" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Misc/plain-old-tests.input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/Misc/special-characters-in-file.input" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/Misc/special-characters-in-file.input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/SurrogateCpps/catch_console_colour.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/SurrogateCpps/catch_console_colour.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/SurrogateCpps/catch_debugger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/SurrogateCpps/catch_debugger.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/SurrogateCpps/catch_interfaces_reporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/SurrogateCpps/catch_interfaces_reporter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/SurrogateCpps/catch_option.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/SurrogateCpps/catch_option.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/SurrogateCpps/catch_stream.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/SurrogateCpps/catch_stream.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/SurrogateCpps/catch_test_case_tracker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/SurrogateCpps/catch_test_case_tracker.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/SurrogateCpps/catch_test_spec.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/SurrogateCpps/catch_test_spec.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/SurrogateCpps/catch_xmlwriter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/SurrogateCpps/catch_xmlwriter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/TestMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/TestMain.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/TimingTests/Sleep.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/TimingTests/Sleep.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Approx.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Approx.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/BDD.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/BDD.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Benchmark.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Benchmark.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Class.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Class.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Compilation.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Compilation.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Condition.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Condition.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Decomposition.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Decomposition.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/EnumToString.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/EnumToString.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Exception.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Exception.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Generators.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Generators.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Matchers.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Matchers.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Message.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Message.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Misc.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Misc.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringByte.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringByte.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringChrono.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringChrono.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringGeneral.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringGeneral.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringOptional.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringOptional.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringPair.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringPair.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringTuple.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringTuple.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringVariant.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringVariant.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringVector.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringVector.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/ToStringWhich.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/ToStringWhich.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/Tricky.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/Tricky.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/UsageTests/VariadicMacros.tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/UsageTests/VariadicMacros.tests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/SelfTest/WarnAboutNoTests.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/SelfTest/WarnAboutNoTests.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/TestScripts/testRandomOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/TestScripts/testRandomOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest/CatchOCTestCase.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest/CatchOCTestCase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest/CatchOCTestCase.mm" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest/CatchOCTestCase.mm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest/Main.mm" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest/Main.mm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest/OCTest.1" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest/OCTest.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest/OCTest.mm" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest/OCTest.mm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest/TestObj.h" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest/TestObj.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/OCTest/TestObj.m" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/OCTest/TestObj.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/projects/XCode/OCTest/catch_objc_impl.mm" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/projects/XCode/OCTest/catch_objc_impl.mm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/approvalTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/approvalTests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/approve.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/approve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/benchmarkCompile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/benchmarkCompile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/benchmarkRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/benchmarkRunner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/developBuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/developBuild.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/embed.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/embed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/embedClara.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/embedClara.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/extractFeaturesFromReleaseNotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/extractFeaturesFromReleaseNotes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/fixWhitespace.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/fixWhitespace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/generateSingleHeader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/generateSingleHeader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/majorRelease.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/majorRelease.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/minorRelease.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/minorRelease.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/patchRelease.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/patchRelease.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/releaseCommon.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/releaseCommon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/releaseNotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/releaseNotes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/scriptCommon.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/scriptCommon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/updateDocumentToC.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/updateDocumentToC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/scripts/updateWandbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/scripts/updateWandbox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/single_include/catch2/catch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/single_include/catch2/catch.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/single_include/catch2/catch_reporter_automake.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/single_include/catch2/catch_reporter_automake.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/single_include/catch2/catch_reporter_sonarqube.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/single_include/catch2/catch_reporter_sonarqube.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/single_include/catch2/catch_reporter_tap.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/single_include/catch2/catch_reporter_tap.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/single_include/catch2/catch_reporter_teamcity.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/single_include/catch2/catch_reporter_teamcity.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/src/catch_with_main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/src/catch_with_main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/Catch2/third_party/clara.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/tests/Catch2/third_party/clara.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/catch_amalgamated.cp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/catch_amalgamated.hh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/lecture1" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/lecture1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/cmake-build-debug/lecture1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/cmake-build-debug/lecture1.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lecture1/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="38b360cc-e217-4074-b41e-be24a9614e1c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/lecture1/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -450,7 +23,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecture1/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -468,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lecture1/tests/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -503,8 +76,8 @@
       <list>
         <option value="$PROJECT_DIR$/lecture1/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/lecture1/tests/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/lecture1/tests/test.cpp" />
         <option value="$PROJECT_DIR$/lecture1/main.cpp" />
+        <option value="$PROJECT_DIR$/lecture1/tests/test.cpp" />
       </list>
     </option>
   </component>
@@ -597,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615372082486</updated>
       <workItem from="1615372083555" duration="399000" />
-      <workItem from="1615970633912" duration="2300000" />
+      <workItem from="1615970633912" duration="2358000" />
     </task>
     <task id="LOCAL-00001" summary="Catch2 integration test with factorial">
       <created>1615372132151</created>
@@ -610,7 +183,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2699000" />
+    <option name="totallyTimeSpent" value="2757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -623,7 +196,7 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -664,6 +237,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lecture1/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lecture1/tests/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -673,15 +253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lecture1/tests/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lecture1/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>

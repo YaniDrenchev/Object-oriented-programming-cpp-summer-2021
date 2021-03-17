@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles/progress.marks
-	$(MAKE) -f CMakeFiles/Makefile2 all
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/Task2/CMakeFiles/progress.marks
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 Task2/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	$(MAKE) -f CMakeFiles/Makefile2 clean
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 Task2/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,71 +97,60 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	$(MAKE) -f CMakeFiles/Makefile2 preinstall
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 Task2/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	$(MAKE) -f CMakeFiles/Makefile2 preinstall
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 Task2/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
-#=============================================================================
-# Target rules for targets named Prakt2
+# Convenience name for target.
+Task2/CMakeFiles/Task2.dir/rule:
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 Task2/CMakeFiles/Task2.dir/rule
+.PHONY : Task2/CMakeFiles/Task2.dir/rule
 
-# Build rule for target.
-Prakt2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Prakt2
-.PHONY : Prakt2
+# Convenience name for target.
+Task2: Task2/CMakeFiles/Task2.dir/rule
 
-# fast build rule for target.
-Prakt2/fast:
-	$(MAKE) -f CMakeFiles/Prakt2.dir/build.make CMakeFiles/Prakt2.dir/build
-.PHONY : Prakt2/fast
-
-#=============================================================================
-# Target rules for targets named Task2
-
-# Build rule for target.
-Task2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Task2
 .PHONY : Task2
 
 # fast build rule for target.
 Task2/fast:
-	$(MAKE) -f Task2/CMakeFiles/Task2.dir/build.make Task2/CMakeFiles/Task2.dir/build
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f Task2/CMakeFiles/Task2.dir/build.make Task2/CMakeFiles/Task2.dir/build
 .PHONY : Task2/fast
 
-main.o: main.cpp.o
+task2.o: task2.cpp.o
 
-.PHONY : main.o
+.PHONY : task2.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Prakt2.dir/build.make CMakeFiles/Prakt2.dir/main.cpp.o
-.PHONY : main.cpp.o
+task2.cpp.o:
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f Task2/CMakeFiles/Task2.dir/build.make Task2/CMakeFiles/Task2.dir/task2.cpp.o
+.PHONY : task2.cpp.o
 
-main.i: main.cpp.i
+task2.i: task2.cpp.i
 
-.PHONY : main.i
+.PHONY : task2.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Prakt2.dir/build.make CMakeFiles/Prakt2.dir/main.cpp.i
-.PHONY : main.cpp.i
+task2.cpp.i:
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f Task2/CMakeFiles/Task2.dir/build.make Task2/CMakeFiles/Task2.dir/task2.cpp.i
+.PHONY : task2.cpp.i
 
-main.s: main.cpp.s
+task2.s: task2.cpp.s
 
-.PHONY : main.s
+.PHONY : task2.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Prakt2.dir/build.make CMakeFiles/Prakt2.dir/main.cpp.s
-.PHONY : main.cpp.s
+task2.cpp.s:
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(MAKE) -f Task2/CMakeFiles/Task2.dir/build.make Task2/CMakeFiles/Task2.dir/task2.cpp.s
+.PHONY : task2.cpp.s
 
 # Help Target
 help:
@@ -171,11 +160,10 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... Prakt2"
 	@echo "... Task2"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... task2.o"
+	@echo "... task2.i"
+	@echo "... task2.s"
 .PHONY : help
 
 
@@ -187,6 +175,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

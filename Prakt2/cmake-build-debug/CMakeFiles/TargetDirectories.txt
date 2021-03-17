@@ -1,3 +1,6 @@
 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/CMakeFiles/Prakt2.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/Task2/CMakeFiles/rebuild_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/Task2/CMakeFiles/edit_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/cmake-build-debug/Task2/CMakeFiles/Task2.dir
