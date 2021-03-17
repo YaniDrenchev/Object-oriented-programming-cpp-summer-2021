@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Preprocessor_and_unit_tests/lecture1
+CMAKE_SOURCE_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Preprocessor_and_unit_tests/lecture1/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles /Users/yanidrenchev/Desktop/UNI/OOP/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,19 @@ lecture1/fast:
 	$(MAKE) -f CMakeFiles/lecture1.dir/build.make CMakeFiles/lecture1.dir/build
 .PHONY : lecture1/fast
 
+#=============================================================================
+# Target rules for targets named tests
+
+# Build rule for target.
+tests: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 tests
+.PHONY : tests
+
+# fast build rule for target.
+tests/fast:
+	$(MAKE) -f tests/CMakeFiles/tests.dir/build.make tests/CMakeFiles/tests.dir/build
+.PHONY : tests/fast
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +172,7 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... lecture1"
+	@echo "... tests"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -1,3 +1,6 @@
-/Users/yanidrenchev/Desktop/UNI/OOP/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/yanidrenchev/Desktop/UNI/OOP/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yanidrenchev/Desktop/UNI/OOP/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/CMakeFiles/lecture1.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Preprocessor_and_unit_tests/lecture1/cmake-build-debug/tests/CMakeFiles/tests.dir

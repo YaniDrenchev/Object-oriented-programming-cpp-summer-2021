@@ -35,6 +35,11 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.13.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.13.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.13.2/CMakeSystem.cmake"
+  "../tests/CMakeLists.txt"
+  "/usr/local/lib/cmake/Catch2/Catch2Config.cmake"
+  "/usr/local/lib/cmake/Catch2/Catch2ConfigVersion.cmake"
+  "/usr/local/lib/cmake/Catch2/Catch2Targets-release.cmake"
+  "/usr/local/lib/cmake/Catch2/Catch2Targets.cmake"
   )
 
 # The corresponding makefile is:
@@ -46,9 +51,11 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "tests/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/lecture1.dir/DependInfo.cmake"
+  "tests/CMakeFiles/tests.dir/DependInfo.cmake"
   )
