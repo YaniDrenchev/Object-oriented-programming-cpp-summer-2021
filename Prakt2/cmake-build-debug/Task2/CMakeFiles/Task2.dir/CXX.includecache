@@ -6,9 +6,21 @@
 
 #IncludeRegexTransform: 
 
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/Auto.h
+
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/AutoHause.h
+
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/Human.h
+
 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/task2.cpp
 iostream
 -
 vector
 -
+Human.h
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/Human.h
+Auto.h
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/Auto.h
+AutoHause.h
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/AutoHause.h
 

@@ -122,6 +122,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/Auto.h">
+			<Option target="Task2"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/AutoHause.h">
+			<Option target="Task2"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/Human.h">
+			<Option target="Task2"/>
+		</Unit>
 		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt2/Task2/task2.cpp">
 			<Option target="Task2"/>
 		</Unit>

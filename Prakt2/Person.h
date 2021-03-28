@@ -16,8 +16,6 @@ private:
 public:
     Person(int age, double height, double weight, const char *name);
 
-    ~Person();
-
     void printPerson();
 
     void setAge(int age);
@@ -34,6 +32,10 @@ public:
 
     const char *getName() const;
 
-    double getWeightIndex();
+    double getWeightIndex() const;
+
+    Person();
+
+   ~Person();
 };
 #endif //PRAKT2_PERSON_H

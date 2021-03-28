@@ -13,23 +13,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da7b88e8-4305-46b8-b07b-2696b356b7e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Person.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/task2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2/Auto.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2/AutoHause.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2/Human.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/Card.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/Card.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/VirtualWallet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/VirtualWallet.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/tests/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/tests/single_include/catch2/catch.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/tests/single_include/catch2/catch_reporter_automake.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/tests/single_include/catch2/catch_reporter_sonarqube.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/tests/single_include/catch2/catch_reporter_tap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/tests/single_include/catch2/catch_reporter_teamcity.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prakt4/tests/test.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt2.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.h" beforeDir="false" afterPath="$PROJECT_DIR$/Person.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/task2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Task2/task2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt2.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt2.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Prakt2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Prakt2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Prakt2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Prakt2.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task2/CMakeFiles/Task2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task2/CMakeFiles/Task2.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task2/CMakeFiles/Task2.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task2/CMakeFiles/Task2.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task2/CMakeFiles/Task2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task2/CMakeFiles/Task2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task2/CMakeFiles/Task2.dir/task2.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task2/CMakeFiles/Task2.dir/task2.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task2/Task2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task2/Task2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task2/Task2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task2/Task2.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Preprocessor_and_unit_tests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Preprocessor_and_unit_tests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Preprocessor_and_unit_tests/lecture1/cmake-build-debug/tests/CMakeFiles/tests.dir/test.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Preprocessor_and_unit_tests/lecture1/cmake-build-debug/tests/CMakeFiles/tests.dir/test.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Preprocessor_and_unit_tests/lecture1/cmake-build-debug/tests/tests" beforeDir="false" afterPath="$PROJECT_DIR$/../Preprocessor_and_unit_tests/lecture1/cmake-build-debug/tests/tests" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +56,83 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task2/task2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3405">
+              <caret line="227" column="24" selection-start-line="227" selection-start-column="24" selection-end-line="227" selection-end-column="24" />
+              <folding>
+                <element signature="e#49#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="109" column="16" lean-forward="true" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Person.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task2/Auto.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task2/Human.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task2/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task2/AutoHause.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AutoHause</find>
+      <find>sort</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -48,11 +140,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Task2/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Task2/Human.h" />
+        <option value="$PROJECT_DIR$/Task2/Auto.h" />
+        <option value="$PROJECT_DIR$/Task2/AutoHause.h" />
+        <option value="$PROJECT_DIR$/Task2/task2.cpp" />
         <option value="$PROJECT_DIR$/Person.h" />
         <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/Task2/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/Task2/task2.cpp" />
       </list>
     </option>
   </component>
@@ -63,8 +158,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,12 +178,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
@@ -110,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.Prakt2">
     <configuration name="Prakt2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Prakt2" TARGET_NAME="Prakt2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Prakt2" RUN_TARGET_NAME="Prakt2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -138,11 +234,13 @@
       <updated>1615967723237</updated>
       <workItem from="1615967725608" duration="1407000" />
       <workItem from="1615974265987" duration="7221000" />
+      <workItem from="1616947103442" duration="4248000" />
+      <workItem from="1616953666262" duration="239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8628000" />
+    <option name="totallyTimeSpent" value="13137000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -154,15 +252,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19329074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32871288" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -172,6 +270,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32871288" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -197,44 +296,65 @@
         <state relative-caret-position="-908" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Person.h">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Task2/task2.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="242" column="22" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
+        <state relative-caret-position="3405">
+          <caret line="227" column="24" selection-start-line="227" selection-start-column="24" selection-end-line="227" selection-end-column="24" />
           <folding>
             <element signature="e#49#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task2/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/Task2/Auto.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="705">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/Task2/Human.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="510">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2/AutoHause.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Person.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="109" column="16" lean-forward="true" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

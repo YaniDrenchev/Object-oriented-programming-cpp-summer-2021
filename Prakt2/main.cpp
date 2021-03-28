@@ -1,6 +1,8 @@
 #include <iostream>
-
+#include <vector>
 #include "Person.h"
+
+void print(std::vector<Person> vector);
 
 void Person::setAge(int const age) {
     this->age = age;
@@ -31,7 +33,7 @@ const char *Person::getName() const {
 }
 
 void Person::printPerson() {
-    std::cout << "Person: " << name << " age: " << age << " height: " << height << " weight: " << weight << "\n";
+    std::cout << "Person: " << name << " age: " << age << " height: " << height << " weight: " << weight << " wightIndx: " << getWeightIndex() << "\n";
 }
 
 Person::Person(int age, double height, double weight, const char *name) {
@@ -41,60 +43,93 @@ Person::Person(int age, double height, double weight, const char *name) {
     strcpy(this->name, name);
 }
 
-Person::~Person() {
-//    delete pointers and so on. But i don't have for now ..
-}
-
-double Person::getWeightIndex() {
+double Person::getWeightIndex() const {
     return weight / (height * height);
 }
 
-void swap (Person *person1, Person *person2){
-    Person *temp = person1;
-    person1 = person2;
-    person2 = person1;
-    delete(temp);
+Person::Person() {
+
 }
 
-Person* sort(Person *persons[], int size){
-    for (size_t i = 0; i < size-1; ++i) {
-        for (int j = 0; j < size-1; ++j) {
-            if(persons[j]->getWeightIndex() > persons[j+1]->getWeightIndex()){
-                swap(persons[i], persons[i+1]);
+Person::~Person() {
+
+}
+
+std::vector<Person> sortByIndex(std::vector<Person> &vector1) {
+    for (int i = 0; i < vector1.size(); ++i) {
+        int min_index = i;
+        for (int j = i + 1; j < vector1.size(); ++j) {
+            if (vector1[min_index].getWeightIndex() > vector1[j].getWeightIndex()) {
+                min_index = j;
             }
+
+            Person temp = vector1[min_index];
+            vector1[min_index] = vector1[i];
+            vector1[i] = temp;
         }
 
     }
-    return persons[1];
+    return vector1;
 }
 
+std::vector<Person> sortByAge(std::vector<Person> &vector1) {
+    for (int i = 0; i < vector1.size(); ++i) {
+        int min_index = i;
+        for (int j = i + 1; j < vector1.size(); ++j) {
+            if (vector1[min_index].getAge() > vector1[j].getAge()) {
+                min_index = j;
+            }
+
+            Person temp = vector1[min_index];
+            vector1[min_index] = vector1[i];
+            vector1[i] = temp;
+        }
+
+    }
+    return vector1;
+}
+void print(std::vector<Person> vector) {
+    for (auto &i : vector) {
+        i.printPerson();
+    }
+}
 
 int main() {
-    Person *person1 = new Person(10, 1.60, 56.00, "Ivan");
-    Person *person2 = new Person(10, 1.70, 56.00, "Dragan");
-    Person *person3 = new Person(10, 1.20, 56.00, "Pesho");
-    Person *person4 = new Person(10, 1.80, 56.00, "Gosho");
-    Person *person5 = new Person(10, 1.10, 56.00, "Sasho");
-    Person *p[10];
-    p[0] = person1;
-    p[1] = person2;
-    p[2] = person3;
-    p[3] = person4;
-    p[4] = person5;
-    std::cout<<"BEFORE";
-    for (int i = 0; i < 5; ++i) {
-        p[i]->printPerson();
+    Person person1(20, 165, 70, "Test");
+    Person person2(10, 100, 40, "Test1");
+    Person person3(15, 175, 65, "Test2");
+    Person person4(1, 60, 5, "Test3");
+    std::vector<Person> persons;
+    persons.push_back(person1);
+    persons.push_back(person2);
+    persons.push_back(person3);
+    persons.push_back(person4);
+    sortByIndex(persons);
+    sortByAge(persons);
+    print(persons);
+    std::cout<<"The most elderly persons: " << "\n";
+    for (int i = persons.size()-1; i >= 0 ; --i) {
+        if (persons[i].getAge() == persons[i-1].getAge()){
+            persons[i].printPerson();
+            persons[i-1].printPerson();
+        }else{
+            persons[i].printPerson();
+            break;
+        }
     }
-
-    sort(p, 5);
-    std::cout<<"AFTER";
-    for (int i = 0; i < 5; ++i) {
-        p[i]->printPerson();
+    double average;
+    double sum = 0;
+    for (int j = 0; j < persons.size(); ++j) {
+       sum += persons[j].getWeightIndex();
     }
-    std::cout << "Hello, World!" << std::endl;
-    for (int j = 0; j < 10; ++j) {
-        delete p[j];
+    average = sum/persons.size();
+    std::cout<<"Average: " << average << "\n";
+    std::cout<<"Persons below average: " << "\n";
+    for (int k = 0; k < persons.size(); ++k) {
+        if(persons[k].getWeightIndex() < average){
+            persons[k].printPerson();
+        }
     }
-// pointer being freed was not allocated ... i don't know what is happening here can you give feedback?
     return 0;
 }
+
