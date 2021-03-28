@@ -5,41 +5,41 @@
 		<Option title="Prakt3"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\testsWarrior\;CMake Files\testsWallet\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Prakt3">
-				<Option output="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Prakt3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug"/>
+				<Option output="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Prakt3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prakt3"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prakt3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Prakt3/fast">
-				<Option output="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Prakt3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug"/>
+				<Option output="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Prakt3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,24 +73,138 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prakt3/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prakt3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testsWeapon">
+				<Option output="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/testsWeapon" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/Makefile&quot;  VERBOSE=1 testsWeapon"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testsWeapon/fast">
+				<Option output="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/testsWeapon" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/Makefile&quot;  VERBOSE=1 testsWeapon/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testsWallet">
+				<Option output="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/testsWallet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/Makefile&quot;  VERBOSE=1 testsWallet"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testsWallet/fast">
+				<Option output="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/testsWallet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/Makefile&quot;  VERBOSE=1 testsWallet/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/Waepon.h">
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Card.cpp">
 			<Option target="Prakt3"/>
 		</Unit>
-		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/Warrior.h">
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Card.hpp">
 			<Option target="Prakt3"/>
 		</Unit>
-		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/main.cpp">
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/VirtualWallet.cpp">
 			<Option target="Prakt3"/>
 		</Unit>
-		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/CMakeLists.txt">
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/VirtualWallet.hpp">
+			<Option target="Prakt3"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Warrior.cpp">
+			<Option target="Prakt3"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Warrior.h">
+			<Option target="Prakt3"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Weapon.cpp">
+			<Option target="Prakt3"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Weapon.h">
+			<Option target="Prakt3"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/main.cpp">
+			<Option target="Prakt3"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/testsWallet/tests_for_virtual_wallet.cpp">
+			<Option target="testsWallet"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/testsWarrior/tests_for_weapon_and_warrior.cpp">
+			<Option target="testsWeapon"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/testsWarrior/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\testsWarrior\"/>
+		</Unit>
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/testsWallet/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\testsWallet\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>

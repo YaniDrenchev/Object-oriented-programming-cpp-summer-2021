@@ -1,3 +1,9 @@
-/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/CMakeFiles/rebuild_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/CMakeFiles/edit_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWarrior/CMakeFiles/testsWeapon.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/CMakeFiles/rebuild_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/CMakeFiles/edit_cache.dir
+/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/testsWallet/CMakeFiles/testsWallet.dir

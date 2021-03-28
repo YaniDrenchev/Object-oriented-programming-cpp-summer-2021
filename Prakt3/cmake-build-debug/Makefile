@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3
+CMAKE_SOURCE_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,140 @@ Prakt3/fast:
 	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/build
 .PHONY : Prakt3/fast
 
+#=============================================================================
+# Target rules for targets named testsWeapon
+
+# Build rule for target.
+testsWeapon: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 testsWeapon
+.PHONY : testsWeapon
+
+# fast build rule for target.
+testsWeapon/fast:
+	$(MAKE) -f testsWarrior/CMakeFiles/testsWeapon.dir/build.make testsWarrior/CMakeFiles/testsWeapon.dir/build
+.PHONY : testsWeapon/fast
+
+#=============================================================================
+# Target rules for targets named testsWallet
+
+# Build rule for target.
+testsWallet: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 testsWallet
+.PHONY : testsWallet
+
+# fast build rule for target.
+testsWallet/fast:
+	$(MAKE) -f testsWallet/CMakeFiles/testsWallet.dir/build.make testsWallet/CMakeFiles/testsWallet.dir/build
+.PHONY : testsWallet/fast
+
+Card.o: Card.cpp.o
+
+.PHONY : Card.o
+
+# target to build an object file
+Card.cpp.o:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Card.cpp.o
+.PHONY : Card.cpp.o
+
+Card.i: Card.cpp.i
+
+.PHONY : Card.i
+
+# target to preprocess a source file
+Card.cpp.i:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Card.cpp.i
+.PHONY : Card.cpp.i
+
+Card.s: Card.cpp.s
+
+.PHONY : Card.s
+
+# target to generate assembly for a file
+Card.cpp.s:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Card.cpp.s
+.PHONY : Card.cpp.s
+
+VirtualWallet.o: VirtualWallet.cpp.o
+
+.PHONY : VirtualWallet.o
+
+# target to build an object file
+VirtualWallet.cpp.o:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/VirtualWallet.cpp.o
+.PHONY : VirtualWallet.cpp.o
+
+VirtualWallet.i: VirtualWallet.cpp.i
+
+.PHONY : VirtualWallet.i
+
+# target to preprocess a source file
+VirtualWallet.cpp.i:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/VirtualWallet.cpp.i
+.PHONY : VirtualWallet.cpp.i
+
+VirtualWallet.s: VirtualWallet.cpp.s
+
+.PHONY : VirtualWallet.s
+
+# target to generate assembly for a file
+VirtualWallet.cpp.s:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/VirtualWallet.cpp.s
+.PHONY : VirtualWallet.cpp.s
+
+Warrior.o: Warrior.cpp.o
+
+.PHONY : Warrior.o
+
+# target to build an object file
+Warrior.cpp.o:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Warrior.cpp.o
+.PHONY : Warrior.cpp.o
+
+Warrior.i: Warrior.cpp.i
+
+.PHONY : Warrior.i
+
+# target to preprocess a source file
+Warrior.cpp.i:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Warrior.cpp.i
+.PHONY : Warrior.cpp.i
+
+Warrior.s: Warrior.cpp.s
+
+.PHONY : Warrior.s
+
+# target to generate assembly for a file
+Warrior.cpp.s:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Warrior.cpp.s
+.PHONY : Warrior.cpp.s
+
+Weapon.o: Weapon.cpp.o
+
+.PHONY : Weapon.o
+
+# target to build an object file
+Weapon.cpp.o:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Weapon.cpp.o
+.PHONY : Weapon.cpp.o
+
+Weapon.i: Weapon.cpp.i
+
+.PHONY : Weapon.i
+
+# target to preprocess a source file
+Weapon.cpp.i:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Weapon.cpp.i
+.PHONY : Weapon.cpp.i
+
+Weapon.s: Weapon.cpp.s
+
+.PHONY : Weapon.s
+
+# target to generate assembly for a file
+Weapon.cpp.s:
+	$(MAKE) -f CMakeFiles/Prakt3.dir/build.make CMakeFiles/Prakt3.dir/Weapon.cpp.s
+.PHONY : Weapon.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +293,20 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Prakt3"
+	@echo "... testsWeapon"
+	@echo "... testsWallet"
+	@echo "... Card.o"
+	@echo "... Card.i"
+	@echo "... Card.s"
+	@echo "... VirtualWallet.o"
+	@echo "... VirtualWallet.i"
+	@echo "... VirtualWallet.s"
+	@echo "... Warrior.o"
+	@echo "... Warrior.i"
+	@echo "... Warrior.s"
+	@echo "... Weapon.o"
+	@echo "... Weapon.i"
+	@echo "... Weapon.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

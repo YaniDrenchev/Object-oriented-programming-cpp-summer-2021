@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
 project(Prakt3)
-
 set(CMAKE_CXX_STANDARD 14)
-
-add_executable(Prakt3 main.cpp Warrior.h Waepon.h)
+add_executable(Prakt3 main.cpp Warrior.cpp Weapon.cpp VirtualWallet.cpp Card.cpp)
+add_subdirectory(testsWarrior)
+add_subdirectory(testsWallet)

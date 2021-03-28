@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3
+CMAKE_SOURCE_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Prakt3.dir/depend.make
@@ -59,28 +59,88 @@ include CMakeFiles/Prakt3.dir/flags.make
 
 CMakeFiles/Prakt3.dir/main.cpp.o: CMakeFiles/Prakt3.dir/flags.make
 CMakeFiles/Prakt3.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Prakt3.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt3.dir/main.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Prakt3.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt3.dir/main.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/main.cpp
 
 CMakeFiles/Prakt3.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt3.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/main.cpp > CMakeFiles/Prakt3.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/main.cpp > CMakeFiles/Prakt3.dir/main.cpp.i
 
 CMakeFiles/Prakt3.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt3.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/main.cpp -o CMakeFiles/Prakt3.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/main.cpp -o CMakeFiles/Prakt3.dir/main.cpp.s
+
+CMakeFiles/Prakt3.dir/Warrior.cpp.o: CMakeFiles/Prakt3.dir/flags.make
+CMakeFiles/Prakt3.dir/Warrior.cpp.o: ../Warrior.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Prakt3.dir/Warrior.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt3.dir/Warrior.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Warrior.cpp
+
+CMakeFiles/Prakt3.dir/Warrior.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt3.dir/Warrior.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Warrior.cpp > CMakeFiles/Prakt3.dir/Warrior.cpp.i
+
+CMakeFiles/Prakt3.dir/Warrior.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt3.dir/Warrior.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Warrior.cpp -o CMakeFiles/Prakt3.dir/Warrior.cpp.s
+
+CMakeFiles/Prakt3.dir/Weapon.cpp.o: CMakeFiles/Prakt3.dir/flags.make
+CMakeFiles/Prakt3.dir/Weapon.cpp.o: ../Weapon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Prakt3.dir/Weapon.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt3.dir/Weapon.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Weapon.cpp
+
+CMakeFiles/Prakt3.dir/Weapon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt3.dir/Weapon.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Weapon.cpp > CMakeFiles/Prakt3.dir/Weapon.cpp.i
+
+CMakeFiles/Prakt3.dir/Weapon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt3.dir/Weapon.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Weapon.cpp -o CMakeFiles/Prakt3.dir/Weapon.cpp.s
+
+CMakeFiles/Prakt3.dir/VirtualWallet.cpp.o: CMakeFiles/Prakt3.dir/flags.make
+CMakeFiles/Prakt3.dir/VirtualWallet.cpp.o: ../VirtualWallet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Prakt3.dir/VirtualWallet.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt3.dir/VirtualWallet.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/VirtualWallet.cpp
+
+CMakeFiles/Prakt3.dir/VirtualWallet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt3.dir/VirtualWallet.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/VirtualWallet.cpp > CMakeFiles/Prakt3.dir/VirtualWallet.cpp.i
+
+CMakeFiles/Prakt3.dir/VirtualWallet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt3.dir/VirtualWallet.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/VirtualWallet.cpp -o CMakeFiles/Prakt3.dir/VirtualWallet.cpp.s
+
+CMakeFiles/Prakt3.dir/Card.cpp.o: CMakeFiles/Prakt3.dir/flags.make
+CMakeFiles/Prakt3.dir/Card.cpp.o: ../Card.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Prakt3.dir/Card.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt3.dir/Card.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Card.cpp
+
+CMakeFiles/Prakt3.dir/Card.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt3.dir/Card.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Card.cpp > CMakeFiles/Prakt3.dir/Card.cpp.i
+
+CMakeFiles/Prakt3.dir/Card.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt3.dir/Card.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/Card.cpp -o CMakeFiles/Prakt3.dir/Card.cpp.s
 
 # Object files for target Prakt3
 Prakt3_OBJECTS = \
-"CMakeFiles/Prakt3.dir/main.cpp.o"
+"CMakeFiles/Prakt3.dir/main.cpp.o" \
+"CMakeFiles/Prakt3.dir/Warrior.cpp.o" \
+"CMakeFiles/Prakt3.dir/Weapon.cpp.o" \
+"CMakeFiles/Prakt3.dir/VirtualWallet.cpp.o" \
+"CMakeFiles/Prakt3.dir/Card.cpp.o"
 
 # External object files for target Prakt3
 Prakt3_EXTERNAL_OBJECTS =
 
 Prakt3: CMakeFiles/Prakt3.dir/main.cpp.o
+Prakt3: CMakeFiles/Prakt3.dir/Warrior.cpp.o
+Prakt3: CMakeFiles/Prakt3.dir/Weapon.cpp.o
+Prakt3: CMakeFiles/Prakt3.dir/VirtualWallet.cpp.o
+Prakt3: CMakeFiles/Prakt3.dir/Card.cpp.o
 Prakt3: CMakeFiles/Prakt3.dir/build.make
 Prakt3: CMakeFiles/Prakt3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Prakt3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Prakt3"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Prakt3.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +153,6 @@ CMakeFiles/Prakt3.dir/clean:
 .PHONY : CMakeFiles/Prakt3.dir/clean
 
 CMakeFiles/Prakt3.dir/depend:
-	cd /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3 /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3 /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug /Users/yanidrenchev/Desktop/UNI/OOP/Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Prakt3.dir/depend
 

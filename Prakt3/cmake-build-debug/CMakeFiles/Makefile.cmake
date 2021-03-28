@@ -35,6 +35,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.13.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.13.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.13.2/CMakeSystem.cmake"
+  "../testsWallet/CMakeLists.txt"
+  "../testsWarrior/CMakeLists.txt"
   )
 
 # The corresponding makefile is:
@@ -46,9 +48,13 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "testsWarrior/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "testsWallet/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Prakt3.dir/DependInfo.cmake"
+  "testsWarrior/CMakeFiles/testsWeapon.dir/DependInfo.cmake"
+  "testsWallet/CMakeFiles/testsWallet.dir/DependInfo.cmake"
   )

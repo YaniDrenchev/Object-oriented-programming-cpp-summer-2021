@@ -1,18 +1,23 @@
 //
 // Created by Yani Drenchev on 2021-03-16.
 //
-#include "Waepon.h"
-#ifndef PRAKT3_WARRIOR_H
-#define PRAKT3_WARRIOR_H
+#pragma once
+#include <iostream>
+#include <cstring>
+#include "Weapon.h"
 
-class Warrior{
+
+class Warrior {
+
 private:
     double strenght;
     double health;
     char name[20];
     Weapon weapon;
+
 public:
-    Warrior(double strenght, double health,  char *name, Weapon &weapon1);
+    Warrior(double strenght, double health, char *name, Weapon &weapon1);
+
     double getStrenght() const;
 
     void setStrenght(double strenght);
@@ -29,19 +34,7 @@ public:
 
     void setName(const char name[20]);
 
-    void attac(Warrior &warrior);
+    void attack(Warrior &warrior);
 
-    bool takeDamage (double dmg){
-        if(health-dmg <= 0) {
-            return false;
-        }
-        health = health-dmg;
-        return true;
-    }
+    bool takeDamage(double dmg);
 };
-
-
-
-#endif //PRAKT3_WARRIOR_H
-
-

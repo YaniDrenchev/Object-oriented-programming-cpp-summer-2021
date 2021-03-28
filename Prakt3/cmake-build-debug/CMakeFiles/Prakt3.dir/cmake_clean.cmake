@@ -1,5 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Prakt3.dir/main.cpp.o"
+  "CMakeFiles/Prakt3.dir/Warrior.cpp.o"
+  "CMakeFiles/Prakt3.dir/Weapon.cpp.o"
+  "CMakeFiles/Prakt3.dir/VirtualWallet.cpp.o"
+  "CMakeFiles/Prakt3.dir/Card.cpp.o"
   "Prakt3.pdb"
   "Prakt3"
 )
