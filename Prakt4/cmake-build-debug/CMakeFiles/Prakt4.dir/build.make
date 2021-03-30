@@ -70,44 +70,44 @@ CMakeFiles/Prakt4.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt4.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/main.cpp -o CMakeFiles/Prakt4.dir/main.cpp.s
 
-CMakeFiles/Prakt4.dir/Card.cpp.o: CMakeFiles/Prakt4.dir/flags.make
-CMakeFiles/Prakt4.dir/Card.cpp.o: ../Card.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Prakt4.dir/Card.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt4.dir/Card.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.cpp
+CMakeFiles/Prakt4.dir/Company.cpp.o: CMakeFiles/Prakt4.dir/flags.make
+CMakeFiles/Prakt4.dir/Company.cpp.o: ../Company.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Prakt4.dir/Company.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt4.dir/Company.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Company.cpp
 
-CMakeFiles/Prakt4.dir/Card.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt4.dir/Card.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.cpp > CMakeFiles/Prakt4.dir/Card.cpp.i
+CMakeFiles/Prakt4.dir/Company.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt4.dir/Company.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Company.cpp > CMakeFiles/Prakt4.dir/Company.cpp.i
 
-CMakeFiles/Prakt4.dir/Card.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt4.dir/Card.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.cpp -o CMakeFiles/Prakt4.dir/Card.cpp.s
+CMakeFiles/Prakt4.dir/Company.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt4.dir/Company.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Company.cpp -o CMakeFiles/Prakt4.dir/Company.cpp.s
 
-CMakeFiles/Prakt4.dir/VirtualWallet.cpp.o: CMakeFiles/Prakt4.dir/flags.make
-CMakeFiles/Prakt4.dir/VirtualWallet.cpp.o: ../VirtualWallet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Prakt4.dir/VirtualWallet.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt4.dir/VirtualWallet.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.cpp
+CMakeFiles/Prakt4.dir/Employee.cpp.o: CMakeFiles/Prakt4.dir/flags.make
+CMakeFiles/Prakt4.dir/Employee.cpp.o: ../Employee.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Prakt4.dir/Employee.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Prakt4.dir/Employee.cpp.o -c /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Employee.cpp
 
-CMakeFiles/Prakt4.dir/VirtualWallet.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt4.dir/VirtualWallet.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.cpp > CMakeFiles/Prakt4.dir/VirtualWallet.cpp.i
+CMakeFiles/Prakt4.dir/Employee.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prakt4.dir/Employee.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Employee.cpp > CMakeFiles/Prakt4.dir/Employee.cpp.i
 
-CMakeFiles/Prakt4.dir/VirtualWallet.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt4.dir/VirtualWallet.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.cpp -o CMakeFiles/Prakt4.dir/VirtualWallet.cpp.s
+CMakeFiles/Prakt4.dir/Employee.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prakt4.dir/Employee.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Employee.cpp -o CMakeFiles/Prakt4.dir/Employee.cpp.s
 
 # Object files for target Prakt4
 Prakt4_OBJECTS = \
 "CMakeFiles/Prakt4.dir/main.cpp.o" \
-"CMakeFiles/Prakt4.dir/Card.cpp.o" \
-"CMakeFiles/Prakt4.dir/VirtualWallet.cpp.o"
+"CMakeFiles/Prakt4.dir/Company.cpp.o" \
+"CMakeFiles/Prakt4.dir/Employee.cpp.o"
 
 # External object files for target Prakt4
 Prakt4_EXTERNAL_OBJECTS =
 
 Prakt4: CMakeFiles/Prakt4.dir/main.cpp.o
-Prakt4: CMakeFiles/Prakt4.dir/Card.cpp.o
-Prakt4: CMakeFiles/Prakt4.dir/VirtualWallet.cpp.o
+Prakt4: CMakeFiles/Prakt4.dir/Company.cpp.o
+Prakt4: CMakeFiles/Prakt4.dir/Employee.cpp.o
 Prakt4: CMakeFiles/Prakt4.dir/build.make
 Prakt4: CMakeFiles/Prakt4.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Prakt4"

@@ -122,16 +122,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.cpp">
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Company.cpp">
 			<Option target="Prakt4"/>
 		</Unit>
-		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.hpp">
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Company.h">
 			<Option target="Prakt4"/>
 		</Unit>
-		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.cpp">
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Employee.cpp">
 			<Option target="Prakt4"/>
 		</Unit>
-		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.hpp">
+		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Employee.h">
 			<Option target="Prakt4"/>
 		</Unit>
 		<Unit filename="/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/main.cpp">

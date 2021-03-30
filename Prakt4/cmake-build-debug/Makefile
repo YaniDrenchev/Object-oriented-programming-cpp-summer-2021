@@ -136,59 +136,59 @@ tests/fast:
 	$(MAKE) -f tests/CMakeFiles/tests.dir/build.make tests/CMakeFiles/tests.dir/build
 .PHONY : tests/fast
 
-Card.o: Card.cpp.o
+Company.o: Company.cpp.o
 
-.PHONY : Card.o
-
-# target to build an object file
-Card.cpp.o:
-	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Card.cpp.o
-.PHONY : Card.cpp.o
-
-Card.i: Card.cpp.i
-
-.PHONY : Card.i
-
-# target to preprocess a source file
-Card.cpp.i:
-	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Card.cpp.i
-.PHONY : Card.cpp.i
-
-Card.s: Card.cpp.s
-
-.PHONY : Card.s
-
-# target to generate assembly for a file
-Card.cpp.s:
-	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Card.cpp.s
-.PHONY : Card.cpp.s
-
-VirtualWallet.o: VirtualWallet.cpp.o
-
-.PHONY : VirtualWallet.o
+.PHONY : Company.o
 
 # target to build an object file
-VirtualWallet.cpp.o:
-	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/VirtualWallet.cpp.o
-.PHONY : VirtualWallet.cpp.o
+Company.cpp.o:
+	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Company.cpp.o
+.PHONY : Company.cpp.o
 
-VirtualWallet.i: VirtualWallet.cpp.i
+Company.i: Company.cpp.i
 
-.PHONY : VirtualWallet.i
+.PHONY : Company.i
 
 # target to preprocess a source file
-VirtualWallet.cpp.i:
-	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/VirtualWallet.cpp.i
-.PHONY : VirtualWallet.cpp.i
+Company.cpp.i:
+	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Company.cpp.i
+.PHONY : Company.cpp.i
 
-VirtualWallet.s: VirtualWallet.cpp.s
+Company.s: Company.cpp.s
 
-.PHONY : VirtualWallet.s
+.PHONY : Company.s
 
 # target to generate assembly for a file
-VirtualWallet.cpp.s:
-	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/VirtualWallet.cpp.s
-.PHONY : VirtualWallet.cpp.s
+Company.cpp.s:
+	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Company.cpp.s
+.PHONY : Company.cpp.s
+
+Employee.o: Employee.cpp.o
+
+.PHONY : Employee.o
+
+# target to build an object file
+Employee.cpp.o:
+	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Employee.cpp.o
+.PHONY : Employee.cpp.o
+
+Employee.i: Employee.cpp.i
+
+.PHONY : Employee.i
+
+# target to preprocess a source file
+Employee.cpp.i:
+	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Employee.cpp.i
+.PHONY : Employee.cpp.i
+
+Employee.s: Employee.cpp.s
+
+.PHONY : Employee.s
+
+# target to generate assembly for a file
+Employee.cpp.s:
+	$(MAKE) -f CMakeFiles/Prakt4.dir/build.make CMakeFiles/Prakt4.dir/Employee.cpp.s
+.PHONY : Employee.cpp.s
 
 main.o: main.cpp.o
 
@@ -227,12 +227,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... Prakt4"
 	@echo "... tests"
-	@echo "... Card.o"
-	@echo "... Card.i"
-	@echo "... Card.s"
-	@echo "... VirtualWallet.o"
-	@echo "... VirtualWallet.i"
-	@echo "... VirtualWallet.s"
+	@echo "... Company.o"
+	@echo "... Company.i"
+	@echo "... Company.s"
+	@echo "... Employee.o"
+	@echo "... Employee.i"
+	@echo "... Employee.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

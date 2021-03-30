@@ -16,49 +16,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d1fcb97-2f8c-4530-a12c-9374077308a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Prakt3/Card.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/Card.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/VirtualWallet.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/VirtualWallet.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/Warrior.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/Weapon.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/single_include/catch2/catch.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/single_include/catch2/catch_reporter_automake.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/single_include/catch2/catch_reporter_sonarqube.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/single_include/catch2/catch_reporter_tap.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/single_include/catch2/catch_reporter_teamcity.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/testsWallet/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/testsWallet/tests_for_virtual_wallet.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/testsWarrior/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prakt3/testsWarrior/tests_for_weapon_and_warrior.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/Waepon.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/Weapon.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/Warrior.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/Warrior.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/Prakt3.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/Prakt3" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/Prakt3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/Prakt3.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/Prakt3.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt3/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt3/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Card.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Card.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualWallet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualWallet.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt4.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt4.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt4.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt4.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt4.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt4.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt4.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt4.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Prakt4.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Prakt4.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,74 +39,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/test.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="22" />
-              <folding>
-                <element signature="e#75#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VirtualWallet.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VirtualWallet.hpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Card.hpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Card.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -145,10 +48,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tests/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Card.hpp" />
         <option value="$PROJECT_DIR$/Card.cpp" />
         <option value="$PROJECT_DIR$/tests/test.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Employee.cpp" />
+        <option value="$PROJECT_DIR$/Employee.h" />
+        <option value="$PROJECT_DIR$/Company.h" />
+        <option value="$PROJECT_DIR$/Company.cpp" />
       </list>
     </option>
   </component>
@@ -163,7 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,6 +85,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tests">
+  <component name="RunManager" selected="Application.Prakt4">
     <configuration name="Prakt4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Prakt4" TARGET_NAME="Prakt4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Prakt4" RUN_TARGET_NAME="Prakt4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -234,17 +141,17 @@
       <workItem from="1616499064961" duration="2269000" />
       <workItem from="1616947088549" duration="13000" />
       <workItem from="1616957110902" duration="3138000" />
+      <workItem from="1617081308346" duration="2513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5420000" />
+    <option name="totallyTimeSpent" value="7933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18903089" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19062833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,31 +220,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VirtualWallet.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Card.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Card.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -348,20 +234,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Card.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Card.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#49#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#75#117#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

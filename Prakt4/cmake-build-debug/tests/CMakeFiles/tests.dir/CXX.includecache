@@ -6,20 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.cpp
-Card.hpp
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.hpp
-
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.hpp
-
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.cpp
-VirtualWallet.hpp
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.hpp
-
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.hpp
-Card.hpp
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.hpp
-
 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/tests/single_include/catch2/catch.hpp
 TargetConditionals.h
 -
@@ -607,8 +593,4 @@ cassert
 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/tests/test.cpp
 single_include/catch2/catch.hpp
 /Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/tests/single_include/catch2/catch.hpp
-../VirtualWallet.cpp
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/VirtualWallet.cpp
-../Card.cpp
-/Users/yanidrenchev/Desktop/UNI/OOP/Object-oriented-programming-cpp-summer-2021/Prakt4/Card.cpp
 
