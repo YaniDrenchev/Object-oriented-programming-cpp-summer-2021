@@ -8,16 +8,12 @@ int Employee::getId() const {
     return id;
 }
 
-void Employee::setId(int id) {
-    Employee::id = id;
-}
-
 int Employee::getAge() const {
     return age;
 }
 
 void Employee::setAge(int age) {
-    Employee::age = age;
+    this->age = age;
 }
 
 double Employee::getSalary() const {
@@ -25,7 +21,7 @@ double Employee::getSalary() const {
 }
 
 void Employee::setSalary(double salary) {
-    Employee::salary = salary;
+    this->salary = salary;
 }
 
 const char *Employee::getName() const {
@@ -36,9 +32,16 @@ const char *Employee::getDepartment() const {
     return department;
 }
 
-Employee::Employee(int age, double salary, char *name, char *department) {
-    Employee::age = age;
-    Employee::salary = salary;
+Employee::Employee(int age, int id, double salary, const char *name, const char *department) {
+    this->id = id;
+    this->age = age;
+    this->salary = salary;
+    if (strlen(name) > 50){
+        std::cout << "too long Name";
+    }
+    if (strlen(department) > 50){
+        std::cout << "too long department";
+    }
     strcpy(this->name, name);
     strcpy(this->department, department);
 }
@@ -51,8 +54,8 @@ void Employee::print() {
     std::cout<< "Employee salary: " << salary << "\n";
 }
 
-bool Employee::operator==(const Employee &employee) {
-    return Employee::id == employee.getId();
+bool Employee::operator==(const Employee &employee) const {
+    return this->id == employee.getId();
 }
 
 

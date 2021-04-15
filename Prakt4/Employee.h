@@ -12,10 +12,9 @@ private:
     double salary;
     char name[50];
     char department[50];
+
 public:
     int getId() const;
-
-    void setId(int id);
 
     int getAge() const;
 
@@ -29,11 +28,11 @@ public:
 
     const char *getDepartment() const;
 
-    Employee(int age, double salary, char *name, char *department);
+    Employee(int age,int id, double salary, const char *name,const char *department);
 
     void print();
 
-    bool operator == (const Employee &employee);
+    bool operator == (const Employee &employee) const;
 };
 
 #endif //PRAKT4_EMPLOYEE_H

@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Prakt4.dir/main.cpp.o"
   "CMakeFiles/Prakt4.dir/Company.cpp.o"
   "CMakeFiles/Prakt4.dir/Employee.cpp.o"
-  "Prakt4.pdb"
+  "CMakeFiles/Prakt4.dir/main.cpp.o"
   "Prakt4"
+  "Prakt4.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

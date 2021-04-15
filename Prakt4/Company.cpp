@@ -4,64 +4,65 @@
 
 #include "Company.h"
 
-Company::Company() {
-
+Company::Company(size_t capacity) {
+    assert(capacity < 1000);
+    employees = new Employee *[capacity];
+    for (int i = 0; i < capacity; ++i) {
+        employees[i] = nullptr;
+    }
 }
 
-bool Company::hireEmployee(Employee employee) {
-    if(employees.size() == maxSize){
-        return false;
-    }
-    bool exists = false;
-    for (auto &i : employees) {
-        if (i == employee) {
-            exists = true;
+bool Company::hireEmployee(Employee *employee) {
+    bool added = false;
+    for (int i = 0; i < 1000; ++i) {
+        if (employees[i] == nullptr){
+            employees[i] = employee;
+            added = true;
+            numberOfEmployees ++;
+            currSize ++;
+            break;
         }
     }
-    if (!exists) {
-        employees.push_back(employee);
-        return true;
-    } else {
-        return false;
-    }
+    return added;
 }
 
-bool Company::getSacked(const Employee employee) {
-    for (int i = 0; i < employees.size(); ++i) {
-        if (employees[i] == employee) {
-            employees.erase(employees.begin() + i);
+bool Company::getSacked(const int id)  {
+    for (int i = 0; i < currSize; ++i) {
+        if (employees[i]->getId() == id) {
+            employees[i] = nullptr;
+            numberOfEmployees --;
             return true;
         }
     }
-
     return false;
 }
 
-bool Company::isCompanyEmpty() {
-    return employees.empty();
+bool Company::isCompanyEmpty() const {
+    return numberOfEmployees == 0;
 }
 
-std::vector<Employee> Company::sortEmployeesByName() {
-    return std::vector<Employee>();
-}
+//std::vector<Employee> Company::sortEmployeesByName() {
+//
+//    return std::vector<Employee>();
+//}
 
 double Company::calculateSalary() {
     double sum = 0;
-
-    for (auto &employee : employees) {
-        sum+= employee.getSalary();
+    for (int i = 0; i < currSize; ++i) {
+        if (employees[i] != nullptr){
+            sum += employees[i]->getSalary();
+        }
     }
-
     return sum;
 }
 
-bool Company::raiseSalaryWithPercent(int percent, Employee &employee) {
+bool Company::raiseSalaryWithPercent(const int percent, Employee &employee) {
     bool exists = false;
-    for (auto &i : employees) {
-        if(employee == i){
+    for (int i = 0; i < currSize; i++) {
+        if(*employees[i] == employee){
             exists = true;
-            double salary = i.getSalary();
-            i.setSalary(salary + salary * (percent/100));
+            double salary =  employees[i]->getSalary();
+            employees[i]->setSalary(salary + salary * (percent/100));
         }
     }
     return exists;
@@ -69,30 +70,30 @@ bool Company::raiseSalaryWithPercent(int percent, Employee &employee) {
 
 void Company::printCompany() {
     std::cout <<"Printing company:" << "\n";
-    std::cout <<"Company has: " << employees.size() << " Employees" << "\n";
+    std::cout <<"Company has: " << numberOfEmployees << " Employees" << "\n";
     std::cout <<"Printing companies Employees: " << "\n";
-    for (auto &employee : employees) {
-        employee.print();
+    for (int i = 0; i < currSize; i++) {
+        employees[i]->print();
     }
 }
 
-void Company::printEmployeesFromDepartment(char *name) {
+void Company::printEmployeesFromDepartment(const char *name) {
 
     std::cout<<"Printing employees from department: " << name << "\n";
 
-    for (auto &employee : employees) {
-        if (employee.getDepartment() == name){
-            employee.print();
+    for (int i = 0; i < currSize; i++) {
+        if (employees[i]->getDepartment() == name){
+            employees[i]->print();
         }
     }
 }
 
-double Company::calculateSalaryFromDepartment(char *name) {
+double Company::calculateSalaryFromDepartment(const char *name) {
     double sum = 0;
 
-    for (auto &employee : employees) {
-        if(employee.getDepartment() == name){
-            sum+= employee.getSalary();
+    for (int i = 0; i < currSize; i++) {
+        if(employees[i]->getDepartment() == name){
+            sum+=  employees[i]->getSalary();
         }
 
     }

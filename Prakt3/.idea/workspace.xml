@@ -5,9 +5,9 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="Prakt3" targetName="testsWallet" />
       <config projectName="Prakt3" targetName="testsWeapon" />
       <config projectName="Prakt3" targetName="Prakt3" />
-      <config projectName="Prakt3" targetName="testsWallet" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -17,48 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb5c895e-c7e6-4896-838c-c886ec846ff2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Card.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Card.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warrior.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weapon.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_include/catch2/catch.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_include/catch2/catch_reporter_automake.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_include/catch2/catch_reporter_sonarqube.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_include/catch2/catch_reporter_tap.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_include/catch2/catch_reporter_teamcity.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testsWallet/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testsWallet/tests_for_virtual_wallet.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testsWarrior/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testsWarrior/tests_for_weapon_and_warrior.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prakt2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Waepon.h" beforeDir="false" afterPath="$PROJECT_DIR$/Weapon.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warrior.h" beforeDir="false" afterPath="$PROJECT_DIR$/Warrior.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Prakt3.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Prakt3" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Prakt3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Prakt3.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Prakt3.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prakt3.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prakt4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prakt4/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -70,7 +29,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -186,16 +145,17 @@
       <updated>1615893847295</updated>
       <workItem from="1615893848728" duration="3978000" />
       <workItem from="1616956716556" duration="3949000" />
+      <workItem from="1618237174555" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7927000" />
+    <option name="totallyTimeSpent" value="7947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,16 +278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsWallet/tests_for_virtual_wallet.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-          <folding>
-            <element signature="e#76#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VirtualWallet.hpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -339,6 +289,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
           <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsWallet/tests_for_virtual_wallet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="9" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="e#76#121#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

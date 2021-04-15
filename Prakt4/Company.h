@@ -7,21 +7,32 @@
 
 #ifndef PRAKT4_COMPANY_H
 #define PRAKT4_COMPANY_H
-class Company{
-private:
-    int maxSize = 1000;
-    std::vector<Employee> employees;
 
+class Company {
+private:
+    Employee **employees;
+    size_t currSize =0;
+    size_t numberOfEmployees = 0;
 public:
-    Company();
-    bool hireEmployee(Employee employee);
-    bool getSacked(Employee employee);
-    bool isCompanyEmpty();
-    std::vector<Employee> sortEmployeesByName();
-    double calculateSalary();
-    bool raiseSalaryWithPercent(int percent, Employee &employee);
+    Company(std::size_t capacity);
+
+    bool hireEmployee(Employee *employee);
+
+    bool getSacked(const int id);
+
+    bool isCompanyEmpty() const;
+
+    Employee *sortEmployeesByName();
+
+    double calculateSalary() ;
+
+    bool raiseSalaryWithPercent(const int percent, Employee &employee);
+
+    void printEmployeesFromDepartment(const char *name);
+
+    double calculateSalaryFromDepartment(const char *name);
+
     void printCompany();
-    void printEmployeesFromDepartment(char* name);
-    double calculateSalaryFromDepartment(char* name);
 };
+
 #endif //PRAKT4_COMPANY_H
